@@ -6,7 +6,7 @@
   "version": "1.0",
   "modules": [
     {
-      "id": "0BFF37C4-1C1C-41A9-8545-2B9F52C29EA3",
+      "id": "{0BFF37C4-1C1C-41A9-8545-2B9F52C29EA3}",
       "name": "Stromkosten Logger",
       "type": 3,
       "vendor": "DeinName",
