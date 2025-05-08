@@ -1,17 +1,15 @@
 {
-  "id": "{DEB0C72E-66B6-4191-BC0A-56CEF6CFB52B}",
-  "name": "Stromkosten Bibliothek",
   "author": "Dein Name",
-  "url": "https://github.com/deinname/stromkosten-logger",
+  "url": "https://github.com/bfe-symcon/stromkosten-logger",
   "version": "1.0",
   "modules": [
     {
-      "id": "{0BFF37C4-1C1C-41A9-8545-2B9F52C29EA3}",
+      "id": "{EINE-GUID-HIER}",
       "name": "Stromkosten Logger",
       "type": 3,
-      "vendor": "DeinName",
-      "version": "1.0",
-      "url": "StromkostenLogger"
+      "vendor": "bfe",
+      "url": "https://github.com/bfe-symcon/stromkosten-logger",
+      "version": "1.0"
     }
   ]
 }
